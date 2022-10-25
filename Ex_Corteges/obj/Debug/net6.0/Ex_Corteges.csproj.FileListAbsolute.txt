@@ -1,0 +1,15 @@
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex_Corteges/bin/Debug/net6.0/Ex_Corteges
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex_Corteges/bin/Debug/net6.0/Ex_Corteges.deps.json
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex_Corteges/bin/Debug/net6.0/Ex_Corteges.runtimeconfig.json
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex_Corteges/bin/Debug/net6.0/Ex_Corteges.dll
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex_Corteges/bin/Debug/net6.0/Ex_Corteges.pdb
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex_Corteges/obj/Debug/net6.0/Ex_Corteges.csproj.AssemblyReference.cache
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex_Corteges/obj/Debug/net6.0/Ex_Corteges.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex_Corteges/obj/Debug/net6.0/Ex_Corteges.AssemblyInfoInputs.cache
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex_Corteges/obj/Debug/net6.0/Ex_Corteges.AssemblyInfo.cs
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex_Corteges/obj/Debug/net6.0/Ex_Corteges.csproj.CoreCompileInputs.cache
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex_Corteges/obj/Debug/net6.0/Ex_Corteges.dll
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex_Corteges/obj/Debug/net6.0/refint/Ex_Corteges.dll
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex_Corteges/obj/Debug/net6.0/Ex_Corteges.pdb
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex_Corteges/obj/Debug/net6.0/Ex_Corteges.genruntimeconfig.cache
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex_Corteges/obj/Debug/net6.0/ref/Ex_Corteges.dll
