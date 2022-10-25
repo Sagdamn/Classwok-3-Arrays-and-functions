@@ -1,0 +1,15 @@
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex001_Сoordinates/obj/Debug/net6.0/Ex001_Сoordinates.csproj.AssemblyReference.cache
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex001_Сoordinates/obj/Debug/net6.0/Ex001_Сoordinates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex001_Сoordinates/obj/Debug/net6.0/Ex001_Сoordinates.AssemblyInfoInputs.cache
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex001_Сoordinates/obj/Debug/net6.0/Ex001_Сoordinates.AssemblyInfo.cs
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex001_Сoordinates/obj/Debug/net6.0/Ex001_Сoordinates.csproj.CoreCompileInputs.cache
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex001_Сoordinates/bin/Debug/net6.0/Ex001_Сoordinates
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex001_Сoordinates/bin/Debug/net6.0/Ex001_Сoordinates.deps.json
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex001_Сoordinates/bin/Debug/net6.0/Ex001_Сoordinates.runtimeconfig.json
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex001_Сoordinates/bin/Debug/net6.0/Ex001_Сoordinates.dll
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex001_Сoordinates/bin/Debug/net6.0/Ex001_Сoordinates.pdb
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex001_Сoordinates/obj/Debug/net6.0/Ex001_Сoordinates.dll
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex001_Сoordinates/obj/Debug/net6.0/refint/Ex001_Сoordinates.dll
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex001_Сoordinates/obj/Debug/net6.0/Ex001_Сoordinates.pdb
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex001_Сoordinates/obj/Debug/net6.0/Ex001_Сoordinates.genruntimeconfig.cache
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex001_Сoordinates/obj/Debug/net6.0/ref/Ex001_Сoordinates.dll
