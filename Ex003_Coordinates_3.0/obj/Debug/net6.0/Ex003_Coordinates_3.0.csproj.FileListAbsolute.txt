@@ -1,0 +1,15 @@
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex003_Coordinates_3.0/obj/Debug/net6.0/Ex003_Coordinates_3.0.csproj.AssemblyReference.cache
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex003_Coordinates_3.0/obj/Debug/net6.0/Ex003_Coordinates_3.0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex003_Coordinates_3.0/obj/Debug/net6.0/Ex003_Coordinates_3.0.AssemblyInfoInputs.cache
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex003_Coordinates_3.0/obj/Debug/net6.0/Ex003_Coordinates_3.0.AssemblyInfo.cs
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex003_Coordinates_3.0/obj/Debug/net6.0/Ex003_Coordinates_3.0.csproj.CoreCompileInputs.cache
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex003_Coordinates_3.0/bin/Debug/net6.0/Ex003_Coordinates_3.0
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex003_Coordinates_3.0/bin/Debug/net6.0/Ex003_Coordinates_3.0.deps.json
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex003_Coordinates_3.0/bin/Debug/net6.0/Ex003_Coordinates_3.0.runtimeconfig.json
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex003_Coordinates_3.0/bin/Debug/net6.0/Ex003_Coordinates_3.0.dll
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex003_Coordinates_3.0/bin/Debug/net6.0/Ex003_Coordinates_3.0.pdb
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex003_Coordinates_3.0/obj/Debug/net6.0/Ex003_Coordinates_3.0.dll
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex003_Coordinates_3.0/obj/Debug/net6.0/refint/Ex003_Coordinates_3.0.dll
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex003_Coordinates_3.0/obj/Debug/net6.0/Ex003_Coordinates_3.0.pdb
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex003_Coordinates_3.0/obj/Debug/net6.0/Ex003_Coordinates_3.0.genruntimeconfig.cache
+/Users/sagdamn/Desktop/Разработчик. Учёба/Сем 3. Массивы и функции в программировании/Ex003_Coordinates_3.0/obj/Debug/net6.0/ref/Ex003_Coordinates_3.0.dll
